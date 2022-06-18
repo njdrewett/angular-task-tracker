@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Proctors Appointment",
+      "day": "5th May at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Shopping again",
+      "day": "Sunday afternoon sometimes.",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
